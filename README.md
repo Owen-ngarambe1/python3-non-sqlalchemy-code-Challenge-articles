@@ -176,5 +176,5 @@ stretch your skills.
   - **magazine_test.py**
     - lines 35-36, 55-56, 59-60, 90-91, and 105-106
     ## video link
-    https://calip.io/bd4uSWoD#A2qf24CJ
+    https://calip.io/6L7r8dAI#1PD8s12R
     
