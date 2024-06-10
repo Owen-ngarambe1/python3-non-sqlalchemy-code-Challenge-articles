@@ -15,12 +15,6 @@ class Article:
     def title(self, value):
         raise AttributeError("Cannot set attribute 'title'")
 
-    
-
-    
-
-    
-    
 
 class Author:
     def __init__(self, name):
